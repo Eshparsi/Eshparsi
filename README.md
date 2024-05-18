@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshparsi&label=Profile%20views&color=0e75b6&style=flat" alt="eshparsi" /> </p>
 
-- 🔭 I’m currently working on **AstroChat**
+- 🔭 I’m currently working on **Kidney Stone Detection using YOLOv9**
 
-- 🌱 I’m currently learning **Microsoft Power BI, JavaScript etc**
+- 🌱 I’m currently learning **Microsoft Power BI etc**
 
 - 📫 How to reach me **eshparsigupta123@gmail.com**
 
